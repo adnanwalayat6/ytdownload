@@ -1,5 +1,4 @@
 import streamlit as st
-from pytube import YouTube
 import yt_dlp
 import os
 
